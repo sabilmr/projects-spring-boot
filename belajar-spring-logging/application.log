@@ -1,0 +1,2 @@
+2024-03-11T10:20:56.482+07:00  WARN 8936 --- [main] o.g.belajarspringlogging.LoggingTest     : Belajar Spring
+2024-03-11T10:20:56.491+07:00 ERROR 8936 --- [main] o.g.belajarspringlogging.LoggingTest     : Belajar Spring Boot Logging

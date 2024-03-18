@@ -1,0 +1,4 @@
+application:
+  name: Belajar Spring Boot Config Properties yaml
+  version: 3
+  production-mode: true
